@@ -1,0 +1,3 @@
+/* This is a basic personal webpage template.
+Consists of a index.html and a style.css. Both files can be found in the Projects.zip file.
+*/
